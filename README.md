@@ -1,4 +1,4 @@
-# HealthLab
+# MedMedic
 Link to app prototype: https://www.figma.com/proto/siLJX6cBfejx5q7lsDDRJI/MedMedic-App?node-id=0%3A68&scaling=scale-down&page-id=0%3A1&starting-point-node-id=0%3A2
 
 Link to a video explaining the project: https://drive.google.com/file/d/1_twO91m6VeJct4QLiT21a5nBGuteZZzS/view
